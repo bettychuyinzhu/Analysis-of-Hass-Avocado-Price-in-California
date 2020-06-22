@@ -1,4 +1,4 @@
-# Analysis-of-Hass-Avocado-Price-in-California
+# Analysis of Hass Avocado Price in California
 
 ## Background Introduction
 
